@@ -1,4 +1,4 @@
-<br />
+I<br />
 <p align="center">
   <img src="assets/logo.svg" alt="Crypto.org Chain" width="400">
 </p>
